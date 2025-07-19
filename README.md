@@ -16,6 +16,6 @@ Generates 22 semantically rich tarot arcana based on the theme of love by cluste
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/double-happiness-tarot.git
-cd double-happiness-tarot
+git clone https://github.com/leeannmperry/shuangxi.git
+cd shuangxi
 pip install -r requirements.txt
