@@ -1,0 +1,4 @@
+__pycache__/
+*.kv
+*.log
+*.DS_Store
